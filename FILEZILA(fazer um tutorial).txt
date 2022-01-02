@@ -1,0 +1,18 @@
+O filezilla é um aplicação servidor de FTP file transfer protocol ela serve pra enviar arquivos ao um servidor. mas eu devo baixar a opção cliente porque o meu computador não é um servidor o servidor e para onde eu vou mandar os arquivos.
+
+configurando a conexão usado protocolo FTP
+
+1- clique em abriri gerenciador de sites 
+2- escolha criar um novo site
+3- para preencher o campo host / vai no infinity free no acount manager tem uma area chamada(FTP DETAILS) que vai ter o ftp hostname ea FTP port  
+
+nome caso  ftpupload.net
+
+depois preencha o usuario ea senha conforme a configuração.
+
+
+
+
+
+
+ 

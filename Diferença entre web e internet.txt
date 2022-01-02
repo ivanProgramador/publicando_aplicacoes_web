@@ -1,0 +1,9 @@
+INTERNET
+  É um meio fisico de comunicação entre dispositivos conectados pela rede.
+
+WEB
+  É um serviço que opera sobre a internet 
+
+APLICAÇÕES WEB   
+  São serviços que operam sobre a internet e dependem dela para existir.
+

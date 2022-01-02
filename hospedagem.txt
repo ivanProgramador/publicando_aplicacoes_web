@@ -1,0 +1,68 @@
+Para hospedar um site primeiro temos que achar um provedor de hospedagem como isso e para um curso o porvedor uado será um gratuito
+
+https://infinityfree.net/
+
+Faça um login se tiver conta se não o cadastro e gratuito 
+
+escolha nova conta (isso vai criar um espaço dentro do servidor)no caso o infinity free podem ser criadas no maximo 3 contas(espaços) gratis éo suficinete pr mostrar m projeto ou protifolio para os clientes ou so fazer testes.
+
+Subdomain -> eo nome do seu dominio no caso eu escolhi (web2022)
+Domain extension e a extenção do seu dominio no caso o gratuito é (.epizy.com)
+
+ATENÇÃO: quando se escolhe o nome de dominio o sistema faz uma busca pra saber e mais ninguem esta usando então pode ser que o nome não fique exatamente como se escolhe pra evitar conflito. 
+
+
+então o endereço todo fica 
+
+web2022.epizy.com
+
+para acesso e gerado um usuario aleatorio pelo proprio sistema o meu foi  
+
+usuario epiz_30721036.SeQEcvhrc1E
+
+depois disso vai aparcer  opção de ver o painel de controle ou ver a area de cliente / por se tratar da criação de um servidor online o painel de controle pode demosrar a abrir pois o seridor ainda esta sendo configurado.
+
+depowsi basta acessar a url que vai exibir uma pagina default que eu vou deletar pra colocar a minha aplicação no lugar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

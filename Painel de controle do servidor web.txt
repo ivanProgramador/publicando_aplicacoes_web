@@ -1,0 +1,28 @@
+caminho
+area do clinte /faz o login/ manage(pagina de configuração da conta)/control painel(chegou)
+
+mapa do painel de controle
+
+aba PREFERENCES
+  contem algumas opçoes de configuração de conta /atulizaçao de contato de email/ opçoes de upgrade na conta
+
+aba FILES
+  contem gerenciadores de arquivos diretorio privado contas FTP 
+opçao de software FTP gratis backups (ou seja tudo que precisa pra administrar arquivos )
+
+aba DATABASES
+  contem o phpMyadimin / Mysql Datbase/ POSTGREE/REMOTE SQL(banos de dados pra seu site ou aplicação)
+
+aba DOMAINS
+   contem gerencia dores de dominio e controle de redirecionamento e aluguel de dominis tambem
+
+aba METRICS 
+  tem uma ferramenta de estatistica pra monitorar como o ste esta indo em relação a acessos desempenho.
+
+aba SECURITY 
+   ferramentas de certifificados e bloqeuios de ip
+
+entre outros .... e muito auto explicativo
+  
+
+

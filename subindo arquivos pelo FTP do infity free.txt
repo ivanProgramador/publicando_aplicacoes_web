@@ -1,0 +1,49 @@
+1 -file manager(não e possivel na verão gratuita ter uma pasta fora do diretorio publico pra proteger os scripts) tudo fica dentro do htdocs entre no htdocs apague os queivos que estão la 
+depois escolha a opção uploa files e depois upload folders/ sempre envie primeiro os aruivos depois as pastas/
+
+2 -pode ser que haja erro devido a aversão do php no caso da aplicação que esta em php 7 no painel de controle clique em alter php config e la nas opçoes escolha php 7
+
+3 - ainda vai ter outro erro por causa da configuração do sql 
+
+4 - criando banco de dados , vai em Mysql databases la criamos o banco de dados e usamos o phpmyadimin somente pra administrar diferente de um servidor local, depois clique em admin 
+ele vai abriri a interface do php admin. vai na aba sql executa o script do banco e pronto 
+tabelas feitas.
+
+5 - a classe conexao tem que sr ajusrtada pra apontar para o banco de dados que esta no servidor
+e possivel editar arquivo a edição vai ser nos dados de coenxao o host nao e mais localhost , o susrio e senha tambem vao mudar/
+
+apos as configurações o aqrquivo ficou assim :
+-------------------------------------------------------
+<?php
+
+class Conexao {
+
+	private $host = 'sql312.byetcluster.com';
+	private $dbname = 'epiz_30721036_web2';
+	private $user = 'epiz_30721036';
+	private $pass = 'SeQEcvhrc1E';
+
+	public function conectar() {
+		try {
+
+			$conexao = new PDO(
+				"mysql:host=$this->host;dbname=$this->dbname",
+				"$this->user",
+				"$this->pass"				
+			);
+
+			return $conexao;
+
+
+		} catch (PDOException $e) {
+			echo '<p>'.$e->getMessege().'</p>';
+		}
+	}
+}
+
+?>
+  
+
+
+
+

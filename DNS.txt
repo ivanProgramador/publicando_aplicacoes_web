@@ -1,0 +1,27 @@
+DOMAIN NAME SISTEM
+
+  trata-se um sistema que funciona como uma lista telefonica nele contem os nomes 
+e endereços ip dos servidores que hospedam sites, no inicio da internet a numeração
+ip era digitada diretamente pelo usuario depois passou a ser discada por um sistema
+automático porém esse tipo de pratica não era algo amigavel a um usuario comum.
+  
+  Um sistema dns guarda o nome e o ip de varios servidores como um lista telefonica 
+so que quando digitamos o nome de um site ele busca no servidor dns que nos direciona ´
+para o ip correspondente.Um exemplo pratico disso seria, abrir o pronpt de comando do 
+windows, digitar o seguinte comando: ping  www.google.com.br -4.Ele vai disparar pacotes 
+para o ip correspondente ao endereço do google e vai ser possivel enxergar o ip na tela.
+depois copie o ip e coloque diretamente no campo de url do seu navegador.se você copiou
+certo ele vai te levar para a pagina do google.
+  
+DOMINIOS
+
+  Ter um dominio na internet é como ter um endereço de um propriedade e neste endereço 
+da pra hospedar arquivos ,sites online não é possivel comprar um dominio eles são alugados
+sites como 'https://registro.br/' podem alugar um o preço varia dependendo do tempo que você
+quiser ficar com ele.
+
+    
+
+    
+  
+ 
